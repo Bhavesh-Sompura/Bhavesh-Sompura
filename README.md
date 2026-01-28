@@ -65,9 +65,9 @@ I value **clean code, clarity, and scalability**.
 
 ## 📈 GitHub Stats
 
-![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshsompura&show_icons=true&theme=tokyonight)
+![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhavesh-sompura&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshsompura&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhavesh-sompura&layout=compact&theme=tokyonight)
 
 ---
 
