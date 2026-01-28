@@ -1,21 +1,88 @@
-# 💫 About Me:
-# 👋 Hi, I'm Bhavesh Sompura<br><br>🚀 Frontend / Full-Stack Web Developer  <br>💻 React • Next.js • TypeScript • Tailwind CSS  <br>🌍 Building scalable, user-focused web products  <br><br>---<br><br>## 👨‍💻 About Me<br><br>I am a web developer focused on building **modern, performant, and maintainable applications**.  <br>I enjoy working on complex UI systems, scalable architectures, and clean developer experiences.<br><br>I have hands-on experience with:<br>- Production-ready React and Next.js applications<br>- Component-driven UI development<br>- Form systems, validation, and state management<br>- API integration and real-world business logic<br>- Internationalization (i18n) and multi-language platforms<br><br>I value **clean code, clarity, and scalability**.<br><br>---<br><br>## 🛠 Tech Stack<br><br>### Frontend<br>- React.js<br>- Next.js<br>- TypeScript<br>- Tailwind CSS<br>- shadcn/ui<br>- Framer Motion<br>- GSAP<br><br>### Forms & State<br>- React Hook Form<br>- Zod<br>- Zustand / Redux<br><br>### Backend & Tools<br>- Node.js<br>- REST APIs<br>- Firebase / Supabase<br>- Git & GitHub<br>- Vercel<br><br>### Other<br>- Responsive Design<br>- Performance Optimization<br>- SEO-friendly Web Apps<br>- Component Architecture<br><br>---<br><br>## 📌 What I’m Working On<br><br>- Modular React & Next.js architectures  <br>- Scalable multi-step form systems  <br>- Internationalized (i18n) applications  <br>- Reusable UI components & design systems  <br>- AI-powered and real-time web features  <br><br>---<br><br>## 📈 GitHub Stats<br><br>![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshsompura&show_icons=true&theme=tokyonight)<br><br>![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshsompura&layout=compact&theme=tokyonight)<br><br>---<br><br>## 🔗 Connect With Me<br><br>- 💼 LinkedIn: https://www.linkedin.com/in/bhavesh-sompura-0462391aa/<br>- 💻 GitHub: https://github.com/bhaveshsompura<br><br>---<br><br>## ✨ Philosophy<br><br>> Write code for humans first, machines second.  <br>> Build things that scale, perform, and feel right.<br><br>---<br><br>⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate.<br>
+# 👋 Hi, I'm Bhavesh Sompura
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhavesh-sompura-0462391aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhaveshsompura30@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bhavesh-devkrest&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Bhavesh-Sompura&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavesh-Sompura&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🚀 Frontend / Full-Stack Web Developer  
+💻 React • Next.js • TypeScript • Tailwind CSS  
+🌍 Building scalable, user-focused web products  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Bhavesh-Sompura&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+I am a web developer focused on building **modern, performant, and maintainable applications**.  
+I enjoy working on complex UI systems, scalable architectures, and clean developer experiences.
+
+I have hands-on experience with:
+- Production-ready React and Next.js applications
+- Component-driven UI development
+- Form systems, validation, and state management
+- API integration and real-world business logic
+- Internationalization (i18n) and multi-language platforms
+
+I value **clean code, clarity, and scalability**.
+
+---
+
+## 🛠 Tech Stack
+
+### Frontend
+- React.js
+- Next.js
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- Framer Motion
+- GSAP
+
+### Forms & State
+- React Hook Form
+- Zod
+- Zustand / Redux
+
+### Backend & Tools
+- Node.js
+- REST APIs
+- Firebase / Supabase
+- Git & GitHub
+- Vercel
+
+### Other
+- Responsive Design
+- Performance Optimization
+- SEO-friendly Web Apps
+- Component Architecture
+
+---
+
+## 📌 What I’m Working On
+
+- Modular React & Next.js architectures  
+- Scalable multi-step form systems  
+- Internationalized (i18n) applications  
+- Reusable UI components & design systems  
+- AI-powered and real-time web features  
+
+---
+
+## 📈 GitHub Stats
+
+![Bhavesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaveshsompura&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshsompura&layout=compact&theme=tokyonight)
+
+---
+
+## 🔗 Connect With Me
+
+- 💼 LinkedIn: https://www.linkedin.com/in/bhavesh-sompura-0462391aa/
+- 💻 GitHub: https://github.com/bhaveshsompura
+
+---
+
+## ✨ Philosophy
+
+> Write code for humans first, machines second.  
+> Build things that scale, perform, and feel right.
+
+---
+
+⭐️ Feel free to explore my repositories and reach out if you'd like to collaborate.
